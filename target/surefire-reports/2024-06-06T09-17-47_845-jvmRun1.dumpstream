@@ -1,0 +1,452 @@
+# Created at 2024-06-06T09:18:32.177
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:210)
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+
+# Created at 2024-06-06T09:18:32.768
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:32.769
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.769
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.769
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.770
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.770
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.770
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:32.771
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.173
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:33.174
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.174
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.174
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.174
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.175
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.175
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.175
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.579
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:33.579
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.579
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.580
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.580
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.580
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.580
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.581
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.984
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:33.985
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.986
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.986
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.986
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.986
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.987
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:33.987
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.390
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:34.391
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.391
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.391
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.392
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.392
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.392
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.392
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.796
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:34.796
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.796
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.797
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.797
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.797
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.797
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:34.797
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.201
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:35.202
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.202
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.202
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.202
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.203
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.203
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.203
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.607
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:35.607
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.607
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.608
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.608
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.608
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.608
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:35.608
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.012
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:36.013
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.013
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.013
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.014
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.014
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.014
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.014
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.418
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:36.419
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.419
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.419
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.419
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.419
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.420
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.420
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.824
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:36.824
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.824
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.825
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.825
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.825
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.825
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:36.825
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.229
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:37.230
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.230
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.230
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.230
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.230
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.231
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.231
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.635
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:37.635
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.635
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.635
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.636
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.636
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.636
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:37.636
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.040
+Unexpected IOException with stream: [H[2J
+
+# Created at 2024-06-06T09:18:38.041
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.041
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.042
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.042
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.042
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.042
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.042
+Unexpected IOException with stream: 
+
+
+# Created at 2024-06-06T09:18:38.449
+Unexpected IOException: 8,1,quentin.m.AppTest,testApp(quentin.m.AppTest),null,expected:<true> but was:<false>,null,expected:<true> but was:<false>,AppTest.testApp:30 expected:<true> but was:<false>,java.lang.AssertionError: expected:<true> but was:<false>\000A\0009at quentin.m.AppTest.testApp(AppTest.java:30)\000A
+
+
+# Created at 2024-06-06T09:18:38.449
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,quentin.m.AppTest,null,null,null
+
+

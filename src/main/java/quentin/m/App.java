@@ -13,6 +13,7 @@ import org.jline.terminal.TerminalBuilder;
  */
 public class App 
 {
+    public static int sleepTime = 200;
     public static void main( String[] args ) throws IOException
     {
          // init reader for user prompt
@@ -44,28 +45,29 @@ public class App
 
 
     // Print on the screen step by step the user's input
-    public static void printString(int[] terminalSize, String sentence) {
+    public static boolean printString(int[] terminalSize, String sentence)
+    {
         
 
         for(int i = 0; i<=sentence.length();i++){
-            String newSentence = sentence.substring(0, i); 
+            String newSentence = sentence.substring(0, i);
             printScreen(terminalSize, newSentence, sentence.length());
             try {
-                Thread.sleep(400);
+                Thread.sleep(App.sleepTime);
             } catch(InterruptedException e) {
-                System.out.println("got interrupted! ");
+                System.out.println("got interrupted:\n"+ e);
+                return false;
             }
         }
-
+        return true;
 
     }
 
     // Print a "frame" 
-    public static void printScreen(int[] terminalSize, String sentence,  int sentenceLength) 
+    public static boolean printScreen(int[] terminalSize, String sentence,  int sentenceLength) 
     {
         clearScreen();
         int terminalWidth = terminalSize[0];
-        // int terminalHeight = terminalSize[1]-7;
         int terminalHeight = 7;
         for (int i=0; i < terminalHeight; i++){
             String strLine = "";
@@ -104,12 +106,13 @@ public class App
                 }
             }
             System.out.println(strLine);
-            
         }
+        return true;
     }
 
-    public static void clearScreen() {
+    public static boolean clearScreen() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
+        return true;
     }
 }

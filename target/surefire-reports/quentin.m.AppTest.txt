@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: quentin.m.AppTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 149.919 s - in quentin.m.AppTest
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in quentin.m.AppTest
+testApp(quentin.m.AppTest)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.UnsupportedClassVersionError: quentin/m/App has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
+	at quentin.m.AppTest.testApp(AppTest.java:28)
+

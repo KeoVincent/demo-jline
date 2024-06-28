@@ -1,4 +1,4 @@
-package quentin.m;
+package jline.example;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -12,6 +12,7 @@ public class App
     public static int sleepTime = 200;
     public static void main( String[] args ) throws IOException
     {
+        
          // init reader for user prompt
         Scanner reader = new Scanner(System.in);
 
